@@ -61,4 +61,4 @@ Feel free to explore and contribute! 💻
 
 Thank you for visiting my profile! 😊
 
-![Thank You Animation](https://media.giphy.com/media/3oEjHQe2l7mMN3Uo12/giphy.gif)
+![Thank You Animation](https://media.giphy.com/media/3oEjHKqYgWcCb9Mm4U/giphy.gif)
