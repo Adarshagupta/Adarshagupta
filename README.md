@@ -50,13 +50,14 @@ Feel free to explore and contribute! 💻
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.herokuapp.com/api?username=Adarshagupta&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Adarshagupta&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.herokuapp.com/api/top-langs/?username=Adarshagupta&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adarshagupta&layout=compact&theme=radical)
 
 ![Your GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=Adarshagupta&theme=radical)
 
-![Your GitHub contributions](https://github-readme-stats.herokuapp.com/api/wakatime?username=Adarshagupta&layout=compact&theme=radical)
+![Your GitHub contributions](https://github-readme-stats.vercel.app/api/wakatime?username=Adarshagupta&layout=compact&theme=radical)
+
 
 ## 🚀 Thank You for Visiting!
 
