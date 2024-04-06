@@ -57,7 +57,8 @@ Feel free to explore and contribute! 💻
 
 ![Your GitHub contributions](https://github-readme-stats.vercel.app/api/wakatime?username=your_username&layout=compact&theme=radical)
 
-## 🚀 Cool Animations
+## 🚀 Thank You for Visiting!
 
-Here's a unique animation to spice up this README:
-![Animation](https://media.giphy.com/media/26gR2R0hjR00NsQ6Y/giphy.gif)
+Thank you for visiting my profile! 😊
+
+![Thank You Animation](https://media.giphy.com/media/3oEjHQe2l7mMN3Uo12/giphy.gif)
