@@ -2,6 +2,8 @@
 
 I'm a passionate Machine Learning and Blockchain developer with a focus on [mention your specific interests or areas of expertise]. Welcome to my GitHub profile!
 
+![Coding Animation](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+
 ## 🔭 What I'm currently working on
 
 - [Project 1]: Brief description.
