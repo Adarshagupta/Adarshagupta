@@ -7,9 +7,9 @@ I'm a passionate Machine Learning and Blockchain developer with a focus on Robot
 
 ## 🔭 What I'm currently working on
 
-- [Project 1]: Brief description.
-- [Project 2]: Brief description.
-- [Project 3]: Brief description.
+- Artificial-intelligence-projects:  Pacman projects completed during the Artificial Intelligence class, CSCI 555, at the University of Applied Science. These projects were adapted from the Berkeley Artificial Intelligence class, which can be found here.
+- Google AI Hackathon:  Leverage Gemini's function calling to translate user questions into API calls. This would allow users with no coding experience to interact with databases and information systems.
+- IndiaDEV: Indiadev India's Largest developer community to connect and grow. Find Internships, Hackathons, and Projects in one place.
 
 ## 🌱 What I'm currently learning
 
@@ -42,8 +42,8 @@ I have  🎉
 
 Here are some of my featured repositories:
 
-1. ##Artificial-intelligence-projects(https://bit.ly/4apApsf): Pacman projects completed during the Artificial Intelligence class, CSCI 555, at the University of Applied Science. These projects were adapted from the Berkeley Artificial Intelligence class, which can be found here..
-2. ##AI-Data-Agent-Google-AI-Hackathon-project##(https://bit.ly/3xozYQh): Leverage Gemini's function calling to translate user questions into API calls. This would allow users with no coding experience to interact with databases and information systems.
+1. Artificial-intelligence-projects(https://bit.ly/4apApsf): Pacman projects completed during the Artificial Intelligence class, CSCI 555, at the University of Applied Science. These projects were adapted from the Berkeley Artificial Intelligence class, which can be found here.
+2. AI-Data-Agent-Google-AI-Hackathon-project(https://bit.ly/3xozYQh): Leverage Gemini's function calling to translate user questions into API calls. This would allow users with no coding experience to interact with databases and information systems.
 3. Python-Hand-Face-Detector(https://github.com/Adarshagupta/Python-Hand-Face-Detector): This code captures video from the default camera (specified by the 0 argument to cv2.VideoCapture()) and processes each frame with the MediaPipe hand detection and face detection modules. The resulting hand landmark map and face bounding boxes are drawn on the image using the drawing utilities of MediaPipe. The resulting image is displayed in a window named "Hand and Face Detection". The program exits when the Esc key is pressed.
 
 Feel free to explore and contribute! 💻
