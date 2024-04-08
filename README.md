@@ -96,7 +96,7 @@ You can reach me via:
 
 ## ⚡ Fun fact
 
-I have  🎉
+I have switched so many collages 🎉
 
 ## 📚 Featured Repositories
 
