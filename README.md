@@ -1,6 +1,5 @@
-# Hi there, I'm Adarsh Gupta 👋
+<img src="https://i.giphy.com/LMt9638dO8dftAjtco.webp" width="15">I'm a passionate Machine Learning and Blockchain developer with a focus on Robotics and Computer Vision. Welcome to my GitHub profile!
 
-I'm a passionate Machine Learning and Blockchain developer with a focus on Robotics and Computer Vision. Welcome to my GitHub profile!
 
 ![Coding Animation](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDBwZm5qdjZ0YWd3NGltbW14eDFwbHVwejhtNTh3NHJybnMybGsxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vzO0Vc8b2VBLi/giphy.gif)
 
@@ -14,6 +13,43 @@ I'm a passionate Machine Learning and Blockchain developer with a focus on Robot
 ## 🌱 What I'm currently learning
 
 I'm currently learning and exploring Computer Vision Programming, aiming to deepen my understanding and skills in this area.
+
+<table>
+  <tr>
+    <td style="width: 50%; vertical-align: top;">
+
+### Programming Skills
+
+| Category                | Skill            | Proficiency    |
+|-------------------------|------------------|----------------|
+| Programming Languages   | Python <img src="https://img.icons8.com/color/48/000000/python.png" width="15"/>           | :star::star::star:     |
+|                         | JavaScript <img src="https://img.icons8.com/color/48/000000/javascript.png" width="15"/>       | :star::star::star:     |
+| Frameworks and Libraries| Django <img src="https://img.icons8.com/ios-filled/50/000000/django.png" width="15"/>          | :star::star::star::star:|
+|                         | Svelte <img src="https://img.icons8.com/color/48/000000/svelte.png" width="15"/>              | :star::star:           |
+|                         | TensorFlow <img src="https://img.icons8.com/color/48/000000/tensorflow.png" width="15"/>      | :star::star:           |
+|                         | React <img src="https://img.icons8.com/plasticine/100/000000/react.png" width="15"/>            | :star::star:           |
+| Relevant Skills         | Node.js <img src="https://img.icons8.com/color/48/000000/nodejs.png" width="15"/>            | :star::star::star::star:|
+|                         | Research <img src="https://img.icons8.com/color/48/000000/research.png" width="15"/>           | :star::star::star::star:|
+|                         | Git <img src="https://img.icons8.com/color/48/000000/git.png" width="15"/>                    | :star::star::star::star:|
+|                         | AWS <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" width="15"/>      | :star::star::star::star:|
+|                         | DigitalOcean <img src="https://img.icons8.com/color/48/000000/digital-ocean.png" width="15"/>  | :star::star::star::star:|
+|                         | WordPress <img src="https://img.icons8.com/color/48/000000/wordpress.png" width="15"/>          | :star::star:           |
+
+
+### Verbal Languages
+
+| Category                | Language         | Proficiency    |
+|-------------------------|------------------|----------------|
+| Verbal Languages        | Hindi <img src="https://img.icons8.com/color/48/000000/india.png" width="15"/>               | :star::star::star::star:|
+|                         | English <img src="https://img.icons8.com/color/48/000000/great-britain.png" width="15"/>        | :star::star::star::star:|
+|                         | Nepali <img src="https://img.icons8.com/color/48/000000/nepal.png" width="15"/>               | :star::star::star::star:|
+|                         | Italian <img src="https://img.icons8.com/color/48/000000/italy.png" width="15"/>             | :star::star::star:     |
+|                         | German <img src="https://img.icons8.com/color/48/000000/germany.png" width="15"/>             | :star::star::star:     |
+|                         | Maithali <img src="https://img.icons8.com/color/48/000000/nepal.png" width="15"/>             | :star::star::star:     |
+
+
+  </tr>
+</table>
 
 ## 👯 Looking to collaborate on
 
