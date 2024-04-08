@@ -75,6 +75,24 @@ I'm currently learning and exploring Computer Vision Programming, aiming to deep
   </tr>
 </table>
 
+## 📚 Featured Repositories
+
+Here are some of my featured repositories:
+
+1. Artificial-intelligence-projects(https://bit.ly/4apApsf): Pacman projects completed during the Artificial Intelligence class, CSCI 555, at the University of Applied Science. These projects were adapted from the Berkeley Artificial Intelligence class, which can be found here.
+2. AI-Data-Agent-Google-AI-Hackathon-project(https://bit.ly/3xozYQh): Leverage Gemini's function calling to translate user questions into API calls. This would allow users with no coding experience to interact with databases and information systems.
+3. Python-Hand-Face-Detector(https://github.com/Adarshagupta/Python-Hand-Face-Detector): This code captures video from the default camera (specified by the 0 argument to cv2.VideoCapture()) and processes each frame with the MediaPipe hand detection and face detection modules. The resulting hand landmark map and face bounding boxes are drawn on the image using the drawing utilities of MediaPipe. The resulting image is displayed in a window named "Hand and Face Detection". The program exits when the Esc key is pressed.
+
+Feel free to explore and contribute! 💻
+
+## 📈 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Adarshagupta&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adarshagupta&layout=compact&theme=radical)
+
+![Your GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=Adarshagupta&theme=radical)
+
 ## 👯 Looking to collaborate on
 
 I'm open to collaborating on projects related to Machine Learning, Blockchain, or any innovative tech project that aligns with my interests.
@@ -98,23 +116,7 @@ You can reach me via:
 
 I have switched so many collages 🎉
 
-## 📚 Featured Repositories
 
-Here are some of my featured repositories:
-
-1. Artificial-intelligence-projects(https://bit.ly/4apApsf): Pacman projects completed during the Artificial Intelligence class, CSCI 555, at the University of Applied Science. These projects were adapted from the Berkeley Artificial Intelligence class, which can be found here.
-2. AI-Data-Agent-Google-AI-Hackathon-project(https://bit.ly/3xozYQh): Leverage Gemini's function calling to translate user questions into API calls. This would allow users with no coding experience to interact with databases and information systems.
-3. Python-Hand-Face-Detector(https://github.com/Adarshagupta/Python-Hand-Face-Detector): This code captures video from the default camera (specified by the 0 argument to cv2.VideoCapture()) and processes each frame with the MediaPipe hand detection and face detection modules. The resulting hand landmark map and face bounding boxes are drawn on the image using the drawing utilities of MediaPipe. The resulting image is displayed in a window named "Hand and Face Detection". The program exits when the Esc key is pressed.
-
-Feel free to explore and contribute! 💻
-
-## 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Adarshagupta&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adarshagupta&layout=compact&theme=radical)
-
-![Your GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=Adarshagupta&theme=radical)
 
 
 ## 🚀 Thank You for Visiting!
