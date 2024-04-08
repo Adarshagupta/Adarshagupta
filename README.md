@@ -1,5 +1,4 @@
-<img src="https://i.giphy.com/LMt9638dO8dftAjtco.webp" width="15">I'm a passionate Machine Learning and Blockchain developer with a focus on Robotics and Computer Vision. Welcome to my GitHub profile!
-
+Welcome to my GitHub profile! I'm an enthusiastic developer specializing in two exciting fields: Machine Learning and Blockchain. Within Machine Learning, my focus lies particularly in Robotics and Computer Vision.In the realm of Machine Learning, I dive deep into understanding how computers can learn from and make predictions or decisions based on data. With a keen interest in Robotics, I explore how machines can perceive their environment and navigate it effectively, often incorporating Computer Vision techniques to enhance their understanding.
 
 ![Coding Animation](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDBwZm5qdjZ0YWd3NGltbW14eDFwbHVwejhtNTh3NHJybnMybGsxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vzO0Vc8b2VBLi/giphy.gif)
 
