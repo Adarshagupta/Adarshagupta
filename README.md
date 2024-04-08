@@ -49,14 +49,14 @@ I'm currently learning and exploring Computer Vision Programming, aiming to deep
 | Programming Languages   | Python <img src="https://img.icons8.com/color/48/000000/python.png" width="15"/>           | :star::star::star:     |
 |                         | JavaScript <img src="https://img.icons8.com/color/48/000000/javascript.png" width="15"/>       | :star::star::star:     |
 | Frameworks and Libraries| Django <img src="https://img.icons8.com/ios-filled/50/000000/django.png" width="15"/>          | :star::star::star::star:|
-|                         | Svelte <img src="https://img.icons8.com/color/48/000000/svelte.png" width="15"/>              | :star::star:           |
+|                         | Svelte             | :star::star:           |
 |                         | TensorFlow <img src="https://img.icons8.com/color/48/000000/tensorflow.png" width="15"/>      | :star::star:           |
 |                         | React <img src="https://img.icons8.com/plasticine/100/000000/react.png" width="15"/>            | :star::star:           |
 | Relevant Skills         | Node.js <img src="https://img.icons8.com/color/48/000000/nodejs.png" width="15"/>            | :star::star::star::star:|
-|                         | Research <img src="https://img.icons8.com/color/48/000000/research.png" width="15"/>           | :star::star::star::star:|
+|                         | Research            | :star::star::star::star:|
 |                         | Git <img src="https://img.icons8.com/color/48/000000/git.png" width="15"/>                    | :star::star::star::star:|
 |                         | AWS <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" width="15"/>      | :star::star::star::star:|
-|                         | DigitalOcean <img src="https://img.icons8.com/color/48/000000/digital-ocean.png" width="15"/>  | :star::star::star::star:|
+|                         | DigitalOcean   | :star::star::star::star:|
 |                         | WordPress <img src="https://img.icons8.com/color/48/000000/wordpress.png" width="15"/>          | :star::star:           |
 
 
