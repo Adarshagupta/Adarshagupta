@@ -116,8 +116,6 @@ Feel free to explore and contribute! 💻
 
 ![Your GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=Adarshagupta&theme=radical)
 
-![Your GitHub contributions](https://github-readme-stats.vercel.app/api/wakatime?username=Adarshagupta&layout=compact&theme=radical)
-
 
 ## 🚀 Thank You for Visiting!
 
