@@ -1,6 +1,22 @@
-Welcome to my GitHub profile! I'm an enthusiastic developer specializing in two exciting fields: Machine Learning and Blockchain. Within Machine Learning, my focus lies particularly in Robotics and Computer Vision.In the realm of Machine Learning, I dive deep into understanding how computers can learn from and make predictions or decisions based on data. With a keen interest in Robotics, I explore how machines can perceive their environment and navigate it effectively, often incorporating Computer Vision techniques to enhance their understanding.
+<div align="center">
+    <img src="https://img.icons8.com/color/96/000000/blockchain-technology.png" alt="Blockchain Icon" width="60"/>
+</div>
 
-![Coding Animation](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDBwZm5qdjZ0YWd3NGltbW14eDFwbHVwejhtNTh3NHJybnMybGsxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vzO0Vc8b2VBLi/giphy.gif)
+# Welcome to My GitHub Profile!
+
+Hey there! 👋 I'm a passionate developer at the intersection of **Machine Learning** and **Blockchain** technologies, with a keen focus on **Robotics** and **Computer Vision**.
+
+In the world of **Machine Learning**, I'm fascinated by the ability of computers to learn from data and make intelligent decisions. My journey involves exploring how to integrate these capabilities into robotics applications, enabling machines to perceive and interact with the world around them more effectively.
+
+On the **Blockchain** front, I'm deeply invested in the decentralized future it promises. I love diving into the intricacies of blockchain technology and finding innovative ways to leverage its potential across various domains.
+
+Feel free to explore my GitHub repositories, where you'll find a mix of projects, experiments, and contributions reflecting my dedication to these cutting-edge fields. Join me as we embark on this exciting journey of exploration and innovation!
+
+<div align="center">
+</div>
+<div align="center">
+      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDBwZm5qdjZ0YWd3NGltbW14eDFwbHVwejhtNTh3NHJybnMybGsxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vzO0Vc8b2VBLi/giphy.gif" alt="Blockchain Icon" width="600"/>
+</div>
 
 <img src="https://img.icons8.com/color/48/000000/python.png" width="100"/> &nbsp;&nbsp;
 <img src="https://img.icons8.com/color/48/000000/javascript.png" width="100"/> &nbsp;&nbsp;
