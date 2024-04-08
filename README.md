@@ -3,6 +3,15 @@
 
 ![Coding Animation](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDBwZm5qdjZ0YWd3NGltbW14eDFwbHVwejhtNTh3NHJybnMybGsxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vzO0Vc8b2VBLi/giphy.gif)
 
+<img src="https://img.icons8.com/color/48/000000/python.png" width="100"/> &nbsp;&nbsp;
+<img src="https://img.icons8.com/color/48/000000/javascript.png" width="100"/> &nbsp;&nbsp;
+<img src="https://img.icons8.com/ios-filled/50/000000/django.png" width="100"/> &nbsp;&nbsp;
+<img src="https://img.icons8.com/color/48/000000/tensorflow.png" width="100"/> &nbsp;&nbsp;
+<img src="https://img.icons8.com/plasticine/100/000000/react.png" width="100"/> &nbsp;&nbsp;
+<img src="https://img.icons8.com/color/48/000000/nodejs.png" width="100"/> &nbsp;&nbsp;
+<img src="https://img.icons8.com/color/48/000000/git.png" width="100"/> &nbsp;&nbsp;
+<img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" width="100"/> &nbsp;&nbsp;
+<img src="https://img.icons8.com/color/48/000000/wordpress.png" width="100"/> &nbsp;&nbsp;
 
 ## 🔭 What I'm currently working on
 
