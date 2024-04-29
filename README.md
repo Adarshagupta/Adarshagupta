@@ -117,7 +117,6 @@ You can reach me via:
 I have switched so many collages 🎉
 
 
-
 ## 🚀 Thank You for Visiting!
 
 Thank you for visiting my profile! 😊
