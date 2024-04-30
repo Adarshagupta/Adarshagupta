@@ -84,7 +84,7 @@ Here are some of my featured repositories:
 3. Python-Hand-Face-Detector(https://github.com/Adarshagupta/Python-Hand-Face-Detector): This code captures video from the default camera (specified by the 0 argument to cv2.VideoCapture()) and processes each frame with the MediaPipe hand detection and face detection modules. The resulting hand landmark map and face bounding boxes are drawn on the image using the drawing utilities of MediaPipe. The resulting image is displayed in a window named "Hand and Face Detection". The program exits when the Esc key is pressed.
 
 Feel free to explore and contribute! 💻
-
+ 
 ## 📈 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Adarshagupta&show_icons=true&theme=radical)
