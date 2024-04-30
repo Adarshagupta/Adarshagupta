@@ -112,7 +112,7 @@ You can reach me via:
 - LinkedIn: https://www.linkedin.com/in/adasgpt/ 💼
 - Twitter: https://twitter.com/adarshagpt 🐦
 
-## ⚡ Fun fact
+## ⚡ Fun fact 
 
 I have switched so many collages 🎉
 
