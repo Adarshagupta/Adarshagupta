@@ -10,7 +10,7 @@ In the world of **Machine Learning**, I'm fascinated by the ability of computers
 
 On the **Blockchain** front, I'm deeply invested in the decentralized future it promises. I love diving into the intricacies of blockchain technology and finding innovative ways to leverage its potential across various domains.
 
-Feel free to explore my GitHub repositories, where you'll find a mix of projects, experiments, and contributions reflecting my dedication to these cutting-edge fields. Join me as we embark on this exciting journey of exploration and innovation!
+Feel free to explore my GitHub repositories, where you'll find a mix of projects, experiments, and contributions reflecting my dedication to these cutting-edge fields. Join me as we embark on this exciting journey of exploration and innovation! 
 
 <div align="center">
 </div>
