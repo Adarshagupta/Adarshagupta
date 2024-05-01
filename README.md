@@ -1,6 +1,6 @@
 <div align="center">
     <img src="https://img.icons8.com/color/96/000000/blockchain-technology.png" alt="Blockchain Icon" width="60"/>
-</div>
+</div> 
 
 # Welcome to My GitHub Profile!
 
