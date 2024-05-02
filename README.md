@@ -37,7 +37,7 @@ Feel free to explore my GitHub repositories, where you'll find a mix of projects
 ## 🌱 What I'm currently learning
 
 I'm currently learning and exploring Computer Vision Programming, aiming to deepen my understanding and skills in this area.
-
+ 
 <table>
   <tr>
     <td style="width: 50%; vertical-align: top;">
