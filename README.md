@@ -41,7 +41,7 @@ I'm currently learning and exploring Computer Vision Programming, aiming to deep
 <table>
   <tr>
     <td style="width: 50%; vertical-align: top;">
-
+ 
 ### Programming Skills
 
 | Category                | Skill            | Proficiency    |
