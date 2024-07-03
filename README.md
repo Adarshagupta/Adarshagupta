@@ -1,123 +1,137 @@
 <div align="center">
-    <img src="https://img.icons8.com/color/96/000000/blockchain-technology.png" alt="Blockchain Icon" width="60"/>
-</div> 
-
-# Welcome to My GitHub Profile!
-
-Hey there! 👋 I'm a passionate developer at the intersection of **Machine Learning** and **Blockchain** technologies, with a keen focus on **Robotics** and **Computer Vision**.
-
-In the world of **Machine Learning**, I'm fascinated by the ability of computers to learn from data and make intelligent decisions. My journey involves exploring how to integrate these capabilities into robotics applications, enabling machines to perceive and interact with the world around them more effectively.
-
-On the **Blockchain** front, I'm deeply invested in the decentralized future it promises. I love diving into the intricacies of blockchain technology and finding innovative ways to leverage its potential across various domains.
-
-Feel free to explore my GitHub repositories, where you'll find a mix of projects, experiments, and contributions reflecting my dedication to these cutting-edge fields. Join me as we embark on this exciting journey of exploration and innovation!  
-
-<div align="center">
-</div>
-<div align="center">
-      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDBwZm5qdjZ0YWd3NGltbW14eDFwbHVwejhtNTh3NHJybnMybGsxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vzO0Vc8b2VBLi/giphy.gif" alt="Blockchain Icon" width="600"/>
+    <img src="https://img.icons8.com/color/96/000000/blockchain-technology.png" alt="Blockchain Icon" width="80"/>
+    <h1>Welcome to My GitHub Profile! 👋</h1>
 </div>
 
-<img src="https://img.icons8.com/color/48/000000/python.png" width="100"/> &nbsp;&nbsp;
-<img src="https://img.icons8.com/color/48/000000/javascript.png" width="100"/> &nbsp;&nbsp;
-<img src="https://img.icons8.com/ios-filled/50/000000/django.png" width="100"/> &nbsp;&nbsp;
-<img src="https://img.icons8.com/color/48/000000/tensorflow.png" width="100"/> &nbsp;&nbsp;
-<img src="https://img.icons8.com/plasticine/100/000000/react.png" width="100"/> &nbsp;&nbsp;
-<img src="https://img.icons8.com/color/48/000000/nodejs.png" width="100"/> &nbsp;&nbsp;
-<img src="https://img.icons8.com/color/48/000000/git.png" width="100"/> &nbsp;&nbsp;
-<img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" width="100"/> &nbsp;&nbsp;
-<img src="https://img.icons8.com/color/48/000000/wordpress.png" width="100"/> &nbsp;&nbsp;
+<p align="center">
+    <em>Passionate developer at the intersection of Machine Learning, Blockchain, Robotics, and Computer Vision</em>
+</p>
 
-## 🔭 What I'm currently working on
+<div align="center">
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDBwZm5qdjZ0YWd3NGltbW14eDFwbHVwejhtNTh3NHJybnMybGsxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vzO0Vc8b2VBLi/giphy.gif" alt="Coding GIF" width="600"/>
+</div>
 
-- Artificial-intelligence-projects:  Pacman projects completed during the Artificial Intelligence class, CSCI 555, at the University of Applied Science. These projects were adapted from the Berkeley Artificial Intelligence class, which can be found here.
-- Google AI Hackathon:  Leverage Gemini's function calling to translate user questions into API calls. This would allow users with no coding experience to interact with databases and information systems.
-- IndiaDEV: Indiadev India's Largest developer community to connect and grow. Find Internships, Hackathons, and Projects in one place.
+## 🚀 About Me
 
-## 🌱 What I'm currently learning
+I'm fascinated by the power of **Machine Learning** to enable computers to learn from data and make intelligent decisions. My journey involves integrating these capabilities into robotics applications, allowing machines to perceive and interact with the world more effectively.
 
-I'm currently learning and exploring Computer Vision Programming, aiming to deepen my understanding and skills in this area.
- 
+In the realm of **Blockchain**, I'm deeply invested in the decentralized future it promises. I love exploring the intricacies of blockchain technology and finding innovative ways to leverage its potential across various domains.
+
+## 💻 Tech Stack
+
+<div align="center">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+    <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+</div>
+
+## 🔭 Current Projects
+
+- **Artificial-intelligence-projects**: Pacman projects from CSCI 555 AI class
+- **Google AI Hackathon**: Leveraging Gemini's function calling for user-friendly API interactions
+- **IndiaDEV**: India's largest developer community platform
+
+## 🌱 Learning
+
+Currently deepening my skills in **Computer Vision Programming**.
+
+## 🛠 Skills
+
 <table>
   <tr>
-    <td style="width: 50%; vertical-align: top;">
- 
+    <td width="50%">
+
 ### Programming Skills
 
-| Category                | Skill            | Proficiency    |
-|-------------------------|------------------|----------------|
-| Programming Languages   | Python <img src="https://img.icons8.com/color/48/000000/python.png" width="15"/>           | :star::star::star:     |
-|                         | JavaScript <img src="https://img.icons8.com/color/48/000000/javascript.png" width="15"/>       | :star::star::star:     |
-| Frameworks and Libraries| Django <img src="https://img.icons8.com/ios-filled/50/000000/django.png" width="15"/>          | :star::star::star::star:|
-|                         | Svelte             | :star::star:           |
-|                         | TensorFlow <img src="https://img.icons8.com/color/48/000000/tensorflow.png" width="15"/>      | :star::star:           |
-|                         | React <img src="https://img.icons8.com/plasticine/100/000000/react.png" width="15"/>            | :star::star:           |
-| Relevant Skills         | Node.js <img src="https://img.icons8.com/color/48/000000/nodejs.png" width="15"/>            | :star::star::star::star:|
-|                         | Research            | :star::star::star::star:|
-|                         | Git <img src="https://img.icons8.com/color/48/000000/git.png" width="15"/>                    | :star::star::star::star:|
-|                         | AWS <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" width="15"/>      | :star::star::star::star:|
-|                         | DigitalOcean   | :star::star::star::star:|
-|                         | WordPress <img src="https://img.icons8.com/color/48/000000/wordpress.png" width="15"/>          | :star::star:           |
+| Category | Skill | Proficiency |
+|----------|-------|-------------|
+| Languages | Python | ⭐⭐⭐ |
+|  | JavaScript | ⭐⭐⭐ |
+| Frameworks | Django | ⭐⭐⭐⭐ |
+|  | Svelte | ⭐⭐ |
+|  | TensorFlow | ⭐⭐ |
+|  | React | ⭐⭐ |
+| Other | Node.js | ⭐⭐⭐⭐ |
+|  | Git | ⭐⭐⭐⭐ |
+|  | AWS | ⭐⭐⭐⭐ |
+|  | DigitalOcean | ⭐⭐⭐⭐ |
+|  | WordPress | ⭐⭐ |
 
+</td>
+    <td width="50%">
 
-### Verbal Languages
+### Languages
 
-| Category                | Language         | Proficiency    |
-|-------------------------|------------------|----------------|
-| Verbal Languages        | Hindi <img src="https://img.icons8.com/color/48/000000/india.png" width="15"/>               | :star::star::star::star:|
-|                         | English <img src="https://img.icons8.com/color/48/000000/great-britain.png" width="15"/>        | :star::star::star::star:|
-|                         | Nepali <img src="https://img.icons8.com/color/48/000000/nepal.png" width="15"/>               | :star::star::star::star:|
-|                         | Italian <img src="https://img.icons8.com/color/48/000000/italy.png" width="15"/>             | :star::star::star:     |
-|                         | German <img src="https://img.icons8.com/color/48/000000/germany.png" width="15"/>             | :star::star::star:     |
-|                         | Maithali <img src="https://img.icons8.com/color/48/000000/nepal.png" width="15"/>             | :star::star::star:     |
+| Language | Proficiency |
+|----------|-------------|
+| Hindi 🇮🇳 | ⭐⭐⭐⭐ |
+| English 🇬🇧 | ⭐⭐⭐⭐ |
+| Nepali 🇳🇵 | ⭐⭐⭐⭐ |
+| Italian 🇮🇹 | ⭐⭐⭐ |
+| German 🇩🇪 | ⭐⭐⭐ |
+| Maithali 🇳🇵 | ⭐⭐⭐ |
 
-
+</td>
   </tr>
 </table>
 
 ## 📚 Featured Repositories
 
-Here are some of my featured repositories:
+1. [Artificial-intelligence-projects](https://bit.ly/4apApsf)
+2. [AI-Data-Agent-Google-AI-Hackathon-project](https://bit.ly/3xozYQh)
+3. [Python-Hand-Face-Detector](https://github.com/Adarshagupta/Python-Hand-Face-Detector)
 
-1. Artificial-intelligence-projects(https://bit.ly/4apApsf): Pacman projects completed during the Artificial Intelligence class, CSCI 555, at the University of Applied Science. These projects were adapted from the Berkeley Artificial Intelligence class, which can be found here.
-2. AI-Data-Agent-Google-AI-Hackathon-project(https://bit.ly/3xozYQh): Leverage Gemini's function calling to translate user questions into API calls. This would allow users with no coding experience to interact with databases and information systems.
-3. Python-Hand-Face-Detector(https://github.com/Adarshagupta/Python-Hand-Face-Detector): This code captures video from the default camera (specified by the 0 argument to cv2.VideoCapture()) and processes each frame with the MediaPipe hand detection and face detection modules. The resulting hand landmark map and face bounding boxes are drawn on the image using the drawing utilities of MediaPipe. The resulting image is displayed in a window named "Hand and Face Detection". The program exits when the Esc key is pressed.
+## 📊 GitHub Stats
 
-Feel free to explore and contribute! 💻
- 
-## 📈 GitHub Stats
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Adarshagupta&show_icons=true&theme=radical" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarshagupta&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Adarshagupta&show_icons=true&theme=radical)
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adarshagupta&theme=radical" alt="GitHub Streak" />
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adarshagupta&layout=compact&theme=radical)
+<div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=Adarshagupta&theme=radical&row=1&column=6" alt="GitHub Trophies" />
+</div>
 
-![Your GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=Adarshagupta&theme=radical)
+## 📈 Contribution Graph
 
-## 👯 Looking to collaborate on
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adarshagupta&theme=react-dark" alt="Contribution Graph" />
+</div>
 
-I'm open to collaborating on projects related to Machine Learning, Blockchain, or any innovative tech project that aligns with my interests.
+## 🌟 GitHub Metrics
 
-## 🤔 Looking for help with
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adarshagupta&theme=radical" alt="GitHub Metrics" />
+</div>
 
-I'm currently seeking help with Gesture control for PC and Mac, any contributions or guidance would be greatly appreciated!
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Adarshagupta&theme=radical" alt="Top Languages by Repo" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Adarshagupta&theme=radical" alt="Top Languages by Commit" />
+</div>
 
-## 💬 Ask me about
+## 🤝 Let's Connect
 
-Feel free to reach out to me if you have any questions about Machine Learning, Blockchain, or anything else related to tech.
+<div align="center">
+    <a href="mailto:adarsh.k.gupta@proton.me"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/adasgpt/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://twitter.com/adarshagpt"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+</div>
 
-## 📫 How to reach me
+## ⚡ Fun Fact
 
-You can reach me via:
-- Email: adarsh.k.gupta@proton.me, adarsh.gupta@iu-study.org 📧
-- LinkedIn: https://www.linkedin.com/in/adasgpt/ 💼
-- Twitter: https://twitter.com/adarshagpt 🐦
+I've switched colleges so many times, I'm practically a professional college hopper! 🎓🔄
 
-## ⚡ Fun fact 
-
-I have switched so many collages 🎉
-
-## 🚀 Thank You for Visiting!
-
-Thank you for visiting my profile! 😊
-
-![Thank You Animation](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3ppaG9mdWY3bGFnMTNqajExNWVkMzdqdWc2d2xvbm4zM3pxZmpnbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SwyOMEpP67AH1KoLHl/giphy.gif)
+<div align="center">
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3ppaG9mdWY3bGFnMTNqajExNWVkMzdqdWc2d2xvbm4zM3pxZmpnbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SwyOMEpP67AH1KoLHl/giphy.gif" alt="Thank You" width="300"/>
+    <h2>Thank You for Visiting! 😊</h2>
+</div>
