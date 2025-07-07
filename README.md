@@ -4,10 +4,10 @@ Not your Ordinary Developer
 <table>
   <tr>
     <td width="50%">
-      <img width="100%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Adarshagupta&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Adarshagupta&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
     </td>
     <td width="50%">
-      <img width="100%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Adarshagupta&theme=radical&layout=compact" />
+      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarshagupta&theme=radical&layout=compact" />
     </td>
   </tr>
 </table>
