@@ -24,7 +24,7 @@
 
 ```typescript
 const adarsh = {
-  role:       "Founder & CS Student @ IIT Guwahati (Batch of 2028)",
+  role:       "Founder & CS Student",
   company:    "Sylica LLC",
   building:   ["Apployd", "TryBookAI", "SylicaAI"],
   metrics:    { users: "22K+", mrr: "$4K+", deployments: "300+ device field eval" },
